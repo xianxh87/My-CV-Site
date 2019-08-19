@@ -1,0 +1,171 @@
+div{
+background-color: #E4F9F5;
+
+}
+
+body{
+margin:0;
+text-align: center;
+font-family: 'Livvic', sans-serif;
+
+}
+
+p{
+line-height: 2;
+
+}
+
+h1{
+color:#66BFBF;
+line-height: 2;
+font-size: 2.625rem;
+margin-top:  0;
+padding-top: 100px;
+font-family: 'Livvic', sans-serif;
+
+}
+
+h2{
+  color:#66BFBF;
+  font-family: 'Livvic', sans-serif;
+  padding-bottom: 9px;
+
+}
+
+h3{
+  color:#11999E;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+hr{
+
+}
+
+.top-container{
+background-color: #E4F9F5;
+color:#66BFBF;
+position: relative;
+padding-top: 100px;
+font-family: 'Lexend Exa', sans-serif;
+
+
+}
+
+.Middle-Container{
+
+  background-color: #E4F9F5;
+  margin: 100px 0;
+  font-family: 'Lexend Exa', sans-serif;
+
+}
+
+.Bottom-Container{
+color:#66BFBF;
+background-color: #E4F9F5;
+font-family: 'Lexend Exa', sans-serif;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+
+}
+
+.bottom-cloud{
+background-color: #E4F9F5;
+position: absolute;
+left: 100px;
+bottom: 300px;
+
+}
+
+.top-cloud{
+  background-color: #E4F9F5;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.mountain{
+  background-color: #E4F9F5;
+  width: 20%;
+}
+
+.skillset-img{
+width: 25%;
+float: left;
+margin-right: 30px;
+
+}
+
+.hobbies-img{
+  width: 60%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.myself-img{
+    width: 30%;
+    margin-top: 20px;
+
+}
+
+.introduction{
+  width: 40%;
+  margin: auto;
+  padding-bottom: 50px;
+
+}
+
+a{
+color: #11999E;
+font-family: 'Lexend Exa', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+.hover {
+  color: #EAF6F6;
+}
+
+.copy-right{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;
+
+}
+
+.contact-me{
+padding: 20px 0;
+
+}
+
+.butn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Livvic', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 20px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
